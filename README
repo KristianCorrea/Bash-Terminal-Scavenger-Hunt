@@ -1,0 +1,22 @@
+Welcome to the Unix Scavenger Hunt!
+
+There is one rule - everything you do must be in the terminal.
+
+See that file directory on the left side of the screen?
+YOU CANNOT USE THAT.
+
+The first thing that I want you to do is see what directory you're in by typing pwd and hitting enter.
+
+pwd stands for Print Working Directory. You should see that you're in the /home (~) directory.
+
+Now I want you to type ls and hit enter - this will list all of the files and subdirectories in the current directory. You should see the directories A, L, and P.
+
+If you want more info about the pwd command, you can type man pwd and hit enter. man is short for manual - you can do this for any command.
+
+In the manual, you'll see some arguments that pwd can take (a dash followed by a letter). One of the subdirectories is NOT a valid argument for the pwd command. Go into that directory by typing cd (choose directory) then the directory name then enter. To scroll, use the arrow keys, and to quit, type q.
+
+When you get to the new directory, open the README.
+
+In each new directory you enter, you should pwd, ls, and cat README
+
+If you are ever lost, you can type cd /home to get back here, or cd to any directory you've seen in the past.

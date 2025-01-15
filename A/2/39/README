@@ -1,0 +1,9 @@
+The command grep finds instances of words in a file, with syntax grep [word]
+
+First, print out the file sentences (using the cat command).
+
+Then, print out only the lines that contain the word computer (remember the pipe syntax!).
+
+And finally, count them by piping *that* output into the wc command like you've already done. You can string together multiple pipes!
+
+Enter the directory with that same number as its name!

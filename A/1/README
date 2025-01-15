@@ -1,0 +1,8 @@
+Phew, we made it!
+
+There is a python file called whereami.py. Run it with the command python whereami.py
+
+Figure out how to make the file happy! Here are some helpful commands:
+- You can make a new directory with the command mkdir [dir_name]
+- You can move a file with the command mv [file] [destination]
+- You can copy a file with the command cp [file] [destination]

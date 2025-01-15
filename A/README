@@ -1,0 +1,3 @@
+Use the pwd command to see what directory you're in, and you'll see that you've moved!
+
+Use ls to see all the subdirectories here. Count the number of subdirectories, and enter the directory whose name is equal to that number!

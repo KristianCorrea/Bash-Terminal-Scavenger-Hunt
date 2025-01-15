@@ -1,0 +1,12 @@
+Count the number of lines in the file howmanylines. No, not by hand! Using Unix commands!
+
+First, print out the contents of the file with the cat command.
+
+Normally, that output gets sent to the terminal where you can read it. But you can send it somewhere else with the pipe (|) symbol.
+
+The wc command counts the number of lines in some text. Try sending the output of the cat command to the wc command like this:
+cat howmanylines | wc
+
+We got 3 numbers! How do we know which one we want? Check the man page of the wc command!
+
+Go into the directory with the name equal to the number of lines in the file.

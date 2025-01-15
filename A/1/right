@@ -1,0 +1,8 @@
+import os
+
+dir = os.path.abspath(os.path.dirname(__file__))
+
+if dir.endswith('right'):
+    print('You did it! Now navigate to /home/A/2')
+else:
+    print('I want to be in a directory called right, then I will tell you the next step. Move or copy me into a directory called right!')

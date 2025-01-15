@@ -1,0 +1,6 @@
+You found it! Go back up two levels and then into the directory number 1.
+
+To do this, use the cd command. You have two options:
+- Use the absolute path. If the directory you want to go to is /home/A/1, you can cd straight there
+    - /home/A/1 is equivalent to ~/A/1 -- the ~ is an alias for the /home directory
+- Use the relative path. To navigate up a level from wherever you are, you can navigate to .. (two periods)
